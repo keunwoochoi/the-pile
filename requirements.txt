@@ -1,0 +1,6 @@
+fasttext
+pytablewriter
+tqdm
+gdown
+best_download
+lm_dataformat
